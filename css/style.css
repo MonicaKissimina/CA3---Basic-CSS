@@ -10,17 +10,74 @@ body {
   font-family: "Josefin Sans", sans-serif;
 }
 
-/* h1 
-h2
-h3
 
-p
-figure
-ul
-li
-ol
-hr
-span
-input
-fieldset */
+body {
+  background-image: url();
+  background: #cfccbd;
+  font-family: "Rye";
+}
+
+
+
+h1, h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(69, 6, 9);
     
+}
+h3 {
+  color:rgb(69, 6, 9);
+  background-color: bisque;
+  background-size: 0%;
+  
+}
+
+p {
+  color:rgb(4, 2, 0);
+  font-family:'Times New Roman', Times, serif;
+  font-size: small;
+
+}
+
+figure {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: smaller;
+  color:black;
+
+}
+
+ul {
+  padding-left: 60px;
+  list-style-type: square;
+
+}
+
+li {
+  color:rgb(38, 27, 3);
+  /*  display: list-item; */
+}
+
+/* Add the dotes*/
+ol {
+  list-style-type:inherit;
+
+}
+
+hr {
+  margin-top: auto;
+  margin-bottom: auto ;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  
+
+}
+
+input{
+  margin: 6px;
+  color:blue;
+}
+fieldset {
+  background-color: #eeee;
+  background-size: 1.5in;
+
+} 
+
