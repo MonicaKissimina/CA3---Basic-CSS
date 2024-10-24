@@ -3,9 +3,14 @@ html {
   width: 100%;
 }
 
+body {
+  background-image: url();
+  background: #07a293;
+  color: #3010af;
+  font-family: "Josefin Sans", sans-serif;
+}
 
-body
-h1
+/* h1 
 h2
 h3
 
@@ -17,4 +22,5 @@ ol
 hr
 span
 input
-fieldset
+fieldset */
+    
